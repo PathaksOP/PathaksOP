@@ -46,12 +46,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PathaksOP&theme=tokyonight&show_icons=true&hide_border=true" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=PathaksOP&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PathaksOP&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
+
 ---
 
 ## 🐍 Contribution Snake
@@ -62,21 +59,15 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PathaksOP&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</p>
----
-
 ## ✍️ Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PathaksOP&icon=5&color=0" />
+<img width="300" height="300" alt="Gemini_Generated_Image_m38u9pm38u9pm38u" src="https://github.com/user-attachments/assets/5c02ee30-79e5-48a7-8ee1-b756065e3435" />
+
 </p>
