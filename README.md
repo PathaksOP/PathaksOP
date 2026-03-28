@@ -32,7 +32,8 @@
 
 ## 🌐 Connect with Me
 
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@UCiC9nlwHcDYZHKigfzVGPiQ)  
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@UCiC9nlwHcDYZHKigfzVGPiQ)
+
 [![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:namitapathak1983@gmail.com)
 
 ---
