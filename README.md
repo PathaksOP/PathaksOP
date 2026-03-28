@@ -48,11 +48,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PathaksOP&theme=tokyonight&show_icons=true&hide_border=true" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PathaksOP&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=PathaksOP&theme=tokyonight&hide_border=true" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PathaksOP&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -68,7 +67,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PathaksOP&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
-
 ---
 
 ## ✍️ Dev Quote
