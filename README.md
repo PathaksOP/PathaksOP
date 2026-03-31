@@ -32,9 +32,8 @@
 
 ## 🌐 Connect with Me
 
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@UCiC9nlwHcDYZHKigfzVGPiQ)
-
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:namitapathak1983@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=namitapathak1983@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCiC9nlwHcDYZHKigfzVGPiQ)
 
 ---
 
@@ -72,3 +71,5 @@
 <img width="300" height="300" alt="Gemini_Generated_Image_m38u9pm38u9pm38u" src="https://github.com/user-attachments/assets/5c02ee30-79e5-48a7-8ee1-b756065e3435" />
 
 </p>
+
+
