@@ -17,12 +17,12 @@
 
 🌱 **Currently learning:**
 - Python (intermediate)  
-- Data Structures & Algorithms  
+- HTML
+- CSS
+- JavaScript
 
 💬 **Ask me about:**
-- Python basics  
-- Game development  
-- Study + coding balance  
+- Python 
 
 ⚡ **About me:**
 - 14-year-old coder building cool projects  
