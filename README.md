@@ -39,7 +39,7 @@
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode" />
 
 ---
 
