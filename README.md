@@ -1,6 +1,6 @@
 <!-- 🔥 Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+PathaksOP+👋;14+y/o+Python+Learner+🚀;Building+Cool+Projects+💻;Learning+Everyday+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+PathaksOP+👋;15+y/o+Developer+🚀;Building+Cool+Projects+💻;Learning+Everyday+🔥" />
 </h1>
 
 ---
@@ -8,24 +8,24 @@
 # 💫 About Me
 
 🔭 **Currently working on:**
-- Python projects like **KBC Game** & **Snake-Water-Gun**
+- Learning **Backend**
 - Improving problem-solving skills  
 
 👯 **Looking to collaborate on:**
-- Beginner-friendly Python projects  
+- Web Development
 - Fun CLI-based games  
 
-🌱 **Currently learning:**
-- Python (intermediate)  
+🌱 **Currently learning:** 
+- Backend
+
+💬 **Ask me about:**
+- Python
 - HTML
 - CSS
 - JavaScript
 
-💬 **Ask me about:**
-- Python 
-
 ⚡ **About me:**
-- 14-year-old coder building cool projects  
+- 15-year-old coder building cool projects  
 - Learning something new every day 🚀  
 
 ---
